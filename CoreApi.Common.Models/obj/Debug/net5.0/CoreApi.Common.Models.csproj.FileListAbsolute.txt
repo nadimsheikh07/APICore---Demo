@@ -1,0 +1,12 @@
+C:\Users\sho\Desktop\dddd\DemoAPICore\CoreApi.Common.Models\bin\Debug\net5.0\CoreApi.Common.Models.deps.json
+C:\Users\sho\Desktop\dddd\DemoAPICore\CoreApi.Common.Models\bin\Debug\net5.0\CoreApi.Common.Models.dll
+C:\Users\sho\Desktop\dddd\DemoAPICore\CoreApi.Common.Models\bin\Debug\net5.0\CoreApi.Common.Models.pdb
+C:\Users\sho\Desktop\dddd\DemoAPICore\CoreApi.Common.Models\obj\Debug\net5.0\CoreApi.Common.Models.csproj.AssemblyReference.cache
+C:\Users\sho\Desktop\dddd\DemoAPICore\CoreApi.Common.Models\obj\Debug\net5.0\CoreApi.Common.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sho\Desktop\dddd\DemoAPICore\CoreApi.Common.Models\obj\Debug\net5.0\CoreApi.Common.Models.AssemblyInfoInputs.cache
+C:\Users\sho\Desktop\dddd\DemoAPICore\CoreApi.Common.Models\obj\Debug\net5.0\CoreApi.Common.Models.AssemblyInfo.cs
+C:\Users\sho\Desktop\dddd\DemoAPICore\CoreApi.Common.Models\obj\Debug\net5.0\CoreApi.Common.Models.csproj.CoreCompileInputs.cache
+C:\Users\sho\Desktop\dddd\DemoAPICore\CoreApi.Common.Models\obj\Debug\net5.0\CoreApi.Common.Models.dll
+C:\Users\sho\Desktop\dddd\DemoAPICore\CoreApi.Common.Models\obj\Debug\net5.0\refint\CoreApi.Common.Models.dll
+C:\Users\sho\Desktop\dddd\DemoAPICore\CoreApi.Common.Models\obj\Debug\net5.0\CoreApi.Common.Models.pdb
+C:\Users\sho\Desktop\dddd\DemoAPICore\CoreApi.Common.Models\obj\Debug\net5.0\ref\CoreApi.Common.Models.dll

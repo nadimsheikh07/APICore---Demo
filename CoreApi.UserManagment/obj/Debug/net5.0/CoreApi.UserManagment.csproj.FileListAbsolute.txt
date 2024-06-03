@@ -1,0 +1,15 @@
+C:\Users\sho\Desktop\dddd\DemoAPICore\CoreApi.UserManagment\bin\Debug\net5.0\CoreApi.UserManagment.deps.json
+C:\Users\sho\Desktop\dddd\DemoAPICore\CoreApi.UserManagment\bin\Debug\net5.0\CoreApi.UserManagment.dll
+C:\Users\sho\Desktop\dddd\DemoAPICore\CoreApi.UserManagment\bin\Debug\net5.0\CoreApi.UserManagment.pdb
+C:\Users\sho\Desktop\dddd\DemoAPICore\CoreApi.UserManagment\bin\Debug\net5.0\CoreApi.Common.Models.dll
+C:\Users\sho\Desktop\dddd\DemoAPICore\CoreApi.UserManagment\bin\Debug\net5.0\CoreApi.Common.Models.pdb
+C:\Users\sho\Desktop\dddd\DemoAPICore\CoreApi.UserManagment\obj\Debug\net5.0\CoreApi.UserManagment.csproj.AssemblyReference.cache
+C:\Users\sho\Desktop\dddd\DemoAPICore\CoreApi.UserManagment\obj\Debug\net5.0\CoreApi.UserManagment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sho\Desktop\dddd\DemoAPICore\CoreApi.UserManagment\obj\Debug\net5.0\CoreApi.UserManagment.AssemblyInfoInputs.cache
+C:\Users\sho\Desktop\dddd\DemoAPICore\CoreApi.UserManagment\obj\Debug\net5.0\CoreApi.UserManagment.AssemblyInfo.cs
+C:\Users\sho\Desktop\dddd\DemoAPICore\CoreApi.UserManagment\obj\Debug\net5.0\CoreApi.UserManagment.csproj.CoreCompileInputs.cache
+C:\Users\sho\Desktop\dddd\DemoAPICore\CoreApi.UserManagment\obj\Debug\net5.0\CoreApi.UserManagment.csproj.CopyComplete
+C:\Users\sho\Desktop\dddd\DemoAPICore\CoreApi.UserManagment\obj\Debug\net5.0\CoreApi.UserManagment.dll
+C:\Users\sho\Desktop\dddd\DemoAPICore\CoreApi.UserManagment\obj\Debug\net5.0\refint\CoreApi.UserManagment.dll
+C:\Users\sho\Desktop\dddd\DemoAPICore\CoreApi.UserManagment\obj\Debug\net5.0\CoreApi.UserManagment.pdb
+C:\Users\sho\Desktop\dddd\DemoAPICore\CoreApi.UserManagment\obj\Debug\net5.0\ref\CoreApi.UserManagment.dll

@@ -1,0 +1,45 @@
+C:\Users\sho\Desktop\dddd\DemoAPICore\CoreApi.UserManagment\bin\Debug\net6.0\CoreApi.UserManagment.deps.json
+C:\Users\sho\Desktop\dddd\DemoAPICore\CoreApi.UserManagment\bin\Debug\net6.0\CoreApi.UserManagment.dll
+C:\Users\sho\Desktop\dddd\DemoAPICore\CoreApi.UserManagment\bin\Debug\net6.0\CoreApi.UserManagment.pdb
+C:\Users\sho\Desktop\dddd\DemoAPICore\CoreApi.UserManagment\bin\Debug\net6.0\CoreApi.Common.Models.dll
+C:\Users\sho\Desktop\dddd\DemoAPICore\CoreApi.UserManagment\bin\Debug\net6.0\CoreApi.Common.Models.pdb
+C:\Users\sho\Desktop\dddd\DemoAPICore\CoreApi.UserManagment\obj\Debug\net6.0\CoreApi.UserManagment.csproj.AssemblyReference.cache
+C:\Users\sho\Desktop\dddd\DemoAPICore\CoreApi.UserManagment\obj\Debug\net6.0\CoreApi.UserManagment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sho\Desktop\dddd\DemoAPICore\CoreApi.UserManagment\obj\Debug\net6.0\CoreApi.UserManagment.AssemblyInfoInputs.cache
+C:\Users\sho\Desktop\dddd\DemoAPICore\CoreApi.UserManagment\obj\Debug\net6.0\CoreApi.UserManagment.AssemblyInfo.cs
+C:\Users\sho\Desktop\dddd\DemoAPICore\CoreApi.UserManagment\obj\Debug\net6.0\CoreApi.UserManagment.csproj.CoreCompileInputs.cache
+C:\Users\sho\Desktop\dddd\DemoAPICore\CoreApi.UserManagment\obj\Debug\net6.0\CoreApi.UserManagment.csproj.CopyComplete
+C:\Users\sho\Desktop\dddd\DemoAPICore\CoreApi.UserManagment\obj\Debug\net6.0\CoreApi.UserManagment.dll
+C:\Users\sho\Desktop\dddd\DemoAPICore\CoreApi.UserManagment\obj\Debug\net6.0\refint\CoreApi.UserManagment.dll
+C:\Users\sho\Desktop\dddd\DemoAPICore\CoreApi.UserManagment\obj\Debug\net6.0\CoreApi.UserManagment.pdb
+C:\Users\sho\Desktop\dddd\DemoAPICore\CoreApi.UserManagment\obj\Debug\net6.0\ref\CoreApi.UserManagment.dll
+F:\Working Project\API All Apps\APICore\CoreApi.UserManagment\bin\Debug\net6.0\CoreApi.UserManagment.deps.json
+F:\Working Project\API All Apps\APICore\CoreApi.UserManagment\bin\Debug\net6.0\CoreApi.UserManagment.dll
+F:\Working Project\API All Apps\APICore\CoreApi.UserManagment\bin\Debug\net6.0\CoreApi.UserManagment.pdb
+F:\Working Project\API All Apps\APICore\CoreApi.UserManagment\bin\Debug\net6.0\CoreApi.Common.Models.dll
+F:\Working Project\API All Apps\APICore\CoreApi.UserManagment\bin\Debug\net6.0\CoreApi.Common.Models.pdb
+F:\Working Project\API All Apps\APICore\CoreApi.UserManagment\obj\Debug\net6.0\CoreApi.UserManagment.csproj.AssemblyReference.cache
+F:\Working Project\API All Apps\APICore\CoreApi.UserManagment\obj\Debug\net6.0\CoreApi.UserManagment.GeneratedMSBuildEditorConfig.editorconfig
+F:\Working Project\API All Apps\APICore\CoreApi.UserManagment\obj\Debug\net6.0\CoreApi.UserManagment.AssemblyInfoInputs.cache
+F:\Working Project\API All Apps\APICore\CoreApi.UserManagment\obj\Debug\net6.0\CoreApi.UserManagment.AssemblyInfo.cs
+F:\Working Project\API All Apps\APICore\CoreApi.UserManagment\obj\Debug\net6.0\CoreApi.UserManagment.csproj.CoreCompileInputs.cache
+F:\Working Project\API All Apps\APICore\CoreApi.UserManagment\obj\Debug\net6.0\CoreApi.UserManagment.csproj.CopyComplete
+F:\Working Project\API All Apps\APICore\CoreApi.UserManagment\obj\Debug\net6.0\CoreApi.UserManagment.dll
+F:\Working Project\API All Apps\APICore\CoreApi.UserManagment\obj\Debug\net6.0\refint\CoreApi.UserManagment.dll
+F:\Working Project\API All Apps\APICore\CoreApi.UserManagment\obj\Debug\net6.0\CoreApi.UserManagment.pdb
+F:\Working Project\API All Apps\APICore\CoreApi.UserManagment\obj\Debug\net6.0\ref\CoreApi.UserManagment.dll
+F:\Working Project\API All Apps\APICore - Demo\CoreApi.UserManagment\bin\Debug\net6.0\CoreApi.UserManagment.deps.json
+F:\Working Project\API All Apps\APICore - Demo\CoreApi.UserManagment\bin\Debug\net6.0\CoreApi.UserManagment.dll
+F:\Working Project\API All Apps\APICore - Demo\CoreApi.UserManagment\bin\Debug\net6.0\CoreApi.UserManagment.pdb
+F:\Working Project\API All Apps\APICore - Demo\CoreApi.UserManagment\bin\Debug\net6.0\CoreApi.Common.Models.dll
+F:\Working Project\API All Apps\APICore - Demo\CoreApi.UserManagment\bin\Debug\net6.0\CoreApi.Common.Models.pdb
+F:\Working Project\API All Apps\APICore - Demo\CoreApi.UserManagment\obj\Debug\net6.0\CoreApi.UserManagment.csproj.AssemblyReference.cache
+F:\Working Project\API All Apps\APICore - Demo\CoreApi.UserManagment\obj\Debug\net6.0\CoreApi.UserManagment.GeneratedMSBuildEditorConfig.editorconfig
+F:\Working Project\API All Apps\APICore - Demo\CoreApi.UserManagment\obj\Debug\net6.0\CoreApi.UserManagment.AssemblyInfoInputs.cache
+F:\Working Project\API All Apps\APICore - Demo\CoreApi.UserManagment\obj\Debug\net6.0\CoreApi.UserManagment.AssemblyInfo.cs
+F:\Working Project\API All Apps\APICore - Demo\CoreApi.UserManagment\obj\Debug\net6.0\CoreApi.UserManagment.csproj.CoreCompileInputs.cache
+F:\Working Project\API All Apps\APICore - Demo\CoreApi.UserManagment\obj\Debug\net6.0\CoreApi.UserManagment.csproj.CopyComplete
+F:\Working Project\API All Apps\APICore - Demo\CoreApi.UserManagment\obj\Debug\net6.0\CoreApi.UserManagment.dll
+F:\Working Project\API All Apps\APICore - Demo\CoreApi.UserManagment\obj\Debug\net6.0\refint\CoreApi.UserManagment.dll
+F:\Working Project\API All Apps\APICore - Demo\CoreApi.UserManagment\obj\Debug\net6.0\CoreApi.UserManagment.pdb
+F:\Working Project\API All Apps\APICore - Demo\CoreApi.UserManagment\obj\Debug\net6.0\ref\CoreApi.UserManagment.dll

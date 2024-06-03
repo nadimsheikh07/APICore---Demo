@@ -1,0 +1,36 @@
+C:\Users\sho\Desktop\dddd\DemoAPICore\CoreApi.Common.Models\bin\Debug\net6.0\CoreApi.Common.Models.deps.json
+C:\Users\sho\Desktop\dddd\DemoAPICore\CoreApi.Common.Models\bin\Debug\net6.0\CoreApi.Common.Models.dll
+C:\Users\sho\Desktop\dddd\DemoAPICore\CoreApi.Common.Models\bin\Debug\net6.0\CoreApi.Common.Models.pdb
+C:\Users\sho\Desktop\dddd\DemoAPICore\CoreApi.Common.Models\obj\Debug\net6.0\CoreApi.Common.Models.csproj.AssemblyReference.cache
+C:\Users\sho\Desktop\dddd\DemoAPICore\CoreApi.Common.Models\obj\Debug\net6.0\CoreApi.Common.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sho\Desktop\dddd\DemoAPICore\CoreApi.Common.Models\obj\Debug\net6.0\CoreApi.Common.Models.AssemblyInfoInputs.cache
+C:\Users\sho\Desktop\dddd\DemoAPICore\CoreApi.Common.Models\obj\Debug\net6.0\CoreApi.Common.Models.AssemblyInfo.cs
+C:\Users\sho\Desktop\dddd\DemoAPICore\CoreApi.Common.Models\obj\Debug\net6.0\CoreApi.Common.Models.csproj.CoreCompileInputs.cache
+C:\Users\sho\Desktop\dddd\DemoAPICore\CoreApi.Common.Models\obj\Debug\net6.0\CoreApi.Common.Models.dll
+C:\Users\sho\Desktop\dddd\DemoAPICore\CoreApi.Common.Models\obj\Debug\net6.0\refint\CoreApi.Common.Models.dll
+C:\Users\sho\Desktop\dddd\DemoAPICore\CoreApi.Common.Models\obj\Debug\net6.0\CoreApi.Common.Models.pdb
+C:\Users\sho\Desktop\dddd\DemoAPICore\CoreApi.Common.Models\obj\Debug\net6.0\ref\CoreApi.Common.Models.dll
+F:\Working Project\API All Apps\APICore\CoreApi.Common.Models\bin\Debug\net6.0\CoreApi.Common.Models.deps.json
+F:\Working Project\API All Apps\APICore\CoreApi.Common.Models\bin\Debug\net6.0\CoreApi.Common.Models.dll
+F:\Working Project\API All Apps\APICore\CoreApi.Common.Models\bin\Debug\net6.0\CoreApi.Common.Models.pdb
+F:\Working Project\API All Apps\APICore\CoreApi.Common.Models\obj\Debug\net6.0\CoreApi.Common.Models.csproj.AssemblyReference.cache
+F:\Working Project\API All Apps\APICore\CoreApi.Common.Models\obj\Debug\net6.0\CoreApi.Common.Models.GeneratedMSBuildEditorConfig.editorconfig
+F:\Working Project\API All Apps\APICore\CoreApi.Common.Models\obj\Debug\net6.0\CoreApi.Common.Models.AssemblyInfoInputs.cache
+F:\Working Project\API All Apps\APICore\CoreApi.Common.Models\obj\Debug\net6.0\CoreApi.Common.Models.AssemblyInfo.cs
+F:\Working Project\API All Apps\APICore\CoreApi.Common.Models\obj\Debug\net6.0\CoreApi.Common.Models.csproj.CoreCompileInputs.cache
+F:\Working Project\API All Apps\APICore\CoreApi.Common.Models\obj\Debug\net6.0\CoreApi.Common.Models.dll
+F:\Working Project\API All Apps\APICore\CoreApi.Common.Models\obj\Debug\net6.0\refint\CoreApi.Common.Models.dll
+F:\Working Project\API All Apps\APICore\CoreApi.Common.Models\obj\Debug\net6.0\CoreApi.Common.Models.pdb
+F:\Working Project\API All Apps\APICore\CoreApi.Common.Models\obj\Debug\net6.0\ref\CoreApi.Common.Models.dll
+F:\Working Project\API All Apps\APICore - Demo\CoreApi.Common.Models\bin\Debug\net6.0\CoreApi.Common.Models.deps.json
+F:\Working Project\API All Apps\APICore - Demo\CoreApi.Common.Models\bin\Debug\net6.0\CoreApi.Common.Models.dll
+F:\Working Project\API All Apps\APICore - Demo\CoreApi.Common.Models\bin\Debug\net6.0\CoreApi.Common.Models.pdb
+F:\Working Project\API All Apps\APICore - Demo\CoreApi.Common.Models\obj\Debug\net6.0\CoreApi.Common.Models.csproj.AssemblyReference.cache
+F:\Working Project\API All Apps\APICore - Demo\CoreApi.Common.Models\obj\Debug\net6.0\CoreApi.Common.Models.GeneratedMSBuildEditorConfig.editorconfig
+F:\Working Project\API All Apps\APICore - Demo\CoreApi.Common.Models\obj\Debug\net6.0\CoreApi.Common.Models.AssemblyInfoInputs.cache
+F:\Working Project\API All Apps\APICore - Demo\CoreApi.Common.Models\obj\Debug\net6.0\CoreApi.Common.Models.AssemblyInfo.cs
+F:\Working Project\API All Apps\APICore - Demo\CoreApi.Common.Models\obj\Debug\net6.0\CoreApi.Common.Models.csproj.CoreCompileInputs.cache
+F:\Working Project\API All Apps\APICore - Demo\CoreApi.Common.Models\obj\Debug\net6.0\CoreApi.Common.Models.dll
+F:\Working Project\API All Apps\APICore - Demo\CoreApi.Common.Models\obj\Debug\net6.0\refint\CoreApi.Common.Models.dll
+F:\Working Project\API All Apps\APICore - Demo\CoreApi.Common.Models\obj\Debug\net6.0\CoreApi.Common.Models.pdb
+F:\Working Project\API All Apps\APICore - Demo\CoreApi.Common.Models\obj\Debug\net6.0\ref\CoreApi.Common.Models.dll

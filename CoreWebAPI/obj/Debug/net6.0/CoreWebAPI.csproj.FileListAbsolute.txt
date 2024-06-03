@@ -1,0 +1,264 @@
+C:\Users\sho\Desktop\dddd\DemoAPICore\CoreWebAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\sho\Desktop\dddd\DemoAPICore\CoreWebAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\sho\Desktop\dddd\DemoAPICore\CoreWebAPI\bin\Debug\net6.0\CoreApi.Controller.exe
+C:\Users\sho\Desktop\dddd\DemoAPICore\CoreWebAPI\bin\Debug\net6.0\CoreApi.Controller.deps.json
+C:\Users\sho\Desktop\dddd\DemoAPICore\CoreWebAPI\bin\Debug\net6.0\CoreApi.Controller.runtimeconfig.json
+C:\Users\sho\Desktop\dddd\DemoAPICore\CoreWebAPI\bin\Debug\net6.0\CoreApi.Controller.dll
+C:\Users\sho\Desktop\dddd\DemoAPICore\CoreWebAPI\bin\Debug\net6.0\CoreApi.Controller.pdb
+C:\Users\sho\Desktop\dddd\DemoAPICore\CoreWebAPI\bin\Debug\net6.0\System.Net.Http.Formatting.dll
+C:\Users\sho\Desktop\dddd\DemoAPICore\CoreWebAPI\bin\Debug\net6.0\System.Web.Http.dll
+C:\Users\sho\Desktop\dddd\DemoAPICore\CoreWebAPI\bin\Debug\net6.0\System.Web.Http.WebHost.dll
+C:\Users\sho\Desktop\dddd\DemoAPICore\CoreWebAPI\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\sho\Desktop\dddd\DemoAPICore\CoreWebAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Users\sho\Desktop\dddd\DemoAPICore\CoreWebAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\sho\Desktop\dddd\DemoAPICore\CoreWebAPI\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\Users\sho\Desktop\dddd\DemoAPICore\CoreWebAPI\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\sho\Desktop\dddd\DemoAPICore\CoreWebAPI\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\sho\Desktop\dddd\DemoAPICore\CoreWebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\sho\Desktop\dddd\DemoAPICore\CoreWebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\sho\Desktop\dddd\DemoAPICore\CoreWebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\sho\Desktop\dddd\DemoAPICore\CoreWebAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\sho\Desktop\dddd\DemoAPICore\CoreWebAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\sho\Desktop\dddd\DemoAPICore\CoreWebAPI\bin\Debug\net6.0\Microsoft.Web.Infrastructure.dll
+C:\Users\sho\Desktop\dddd\DemoAPICore\CoreWebAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\sho\Desktop\dddd\DemoAPICore\CoreWebAPI\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\sho\Desktop\dddd\DemoAPICore\CoreWebAPI\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\sho\Desktop\dddd\DemoAPICore\CoreWebAPI\bin\Debug\net6.0\NLog.dll
+C:\Users\sho\Desktop\dddd\DemoAPICore\CoreWebAPI\bin\Debug\net6.0\NLog.Extensions.Logging.dll
+C:\Users\sho\Desktop\dddd\DemoAPICore\CoreWebAPI\bin\Debug\net6.0\Npgsql.dll
+C:\Users\sho\Desktop\dddd\DemoAPICore\CoreWebAPI\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\sho\Desktop\dddd\DemoAPICore\CoreWebAPI\bin\Debug\net6.0\Serilog.dll
+C:\Users\sho\Desktop\dddd\DemoAPICore\CoreWebAPI\bin\Debug\net6.0\Serilog.AspNetCore.dll
+C:\Users\sho\Desktop\dddd\DemoAPICore\CoreWebAPI\bin\Debug\net6.0\Serilog.Extensions.Hosting.dll
+C:\Users\sho\Desktop\dddd\DemoAPICore\CoreWebAPI\bin\Debug\net6.0\Serilog.Extensions.Logging.dll
+C:\Users\sho\Desktop\dddd\DemoAPICore\CoreWebAPI\bin\Debug\net6.0\Serilog.Formatting.Compact.dll
+C:\Users\sho\Desktop\dddd\DemoAPICore\CoreWebAPI\bin\Debug\net6.0\Serilog.Settings.Configuration.dll
+C:\Users\sho\Desktop\dddd\DemoAPICore\CoreWebAPI\bin\Debug\net6.0\Serilog.Sinks.Console.dll
+C:\Users\sho\Desktop\dddd\DemoAPICore\CoreWebAPI\bin\Debug\net6.0\Serilog.Sinks.Debug.dll
+C:\Users\sho\Desktop\dddd\DemoAPICore\CoreWebAPI\bin\Debug\net6.0\Serilog.Sinks.File.dll
+C:\Users\sho\Desktop\dddd\DemoAPICore\CoreWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\sho\Desktop\dddd\DemoAPICore\CoreWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\sho\Desktop\dddd\DemoAPICore\CoreWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\sho\Desktop\dddd\DemoAPICore\CoreWebAPI\bin\Debug\net6.0\Swashbuckle.Core.dll
+C:\Users\sho\Desktop\dddd\DemoAPICore\CoreWebAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\sho\Desktop\dddd\DemoAPICore\CoreWebAPI\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\sho\Desktop\dddd\DemoAPICore\CoreWebAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\sho\Desktop\dddd\DemoAPICore\CoreWebAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\sho\Desktop\dddd\DemoAPICore\CoreWebAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\sho\Desktop\dddd\DemoAPICore\CoreWebAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\sho\Desktop\dddd\DemoAPICore\CoreWebAPI\bin\Debug\net6.0\WebActivatorEx.dll
+C:\Users\sho\Desktop\dddd\DemoAPICore\CoreWebAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\sho\Desktop\dddd\DemoAPICore\CoreWebAPI\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\sho\Desktop\dddd\DemoAPICore\CoreWebAPI\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\sho\Desktop\dddd\DemoAPICore\CoreWebAPI\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\sho\Desktop\dddd\DemoAPICore\CoreWebAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\sho\Desktop\dddd\DemoAPICore\CoreWebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\sho\Desktop\dddd\DemoAPICore\CoreWebAPI\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\sho\Desktop\dddd\DemoAPICore\CoreWebAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\sho\Desktop\dddd\DemoAPICore\CoreWebAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\sho\Desktop\dddd\DemoAPICore\CoreWebAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\sho\Desktop\dddd\DemoAPICore\CoreWebAPI\bin\Debug\net6.0\CoreApi.Common.Models.dll
+C:\Users\sho\Desktop\dddd\DemoAPICore\CoreWebAPI\bin\Debug\net6.0\CoreApi.LoggerService.dll
+C:\Users\sho\Desktop\dddd\DemoAPICore\CoreWebAPI\bin\Debug\net6.0\CoreApi.UserManagment.dll
+C:\Users\sho\Desktop\dddd\DemoAPICore\CoreWebAPI\bin\Debug\net6.0\CoreApi.Common.Models.pdb
+C:\Users\sho\Desktop\dddd\DemoAPICore\CoreWebAPI\bin\Debug\net6.0\CoreApi.LoggerService.pdb
+C:\Users\sho\Desktop\dddd\DemoAPICore\CoreWebAPI\bin\Debug\net6.0\CoreApi.UserManagment.pdb
+C:\Users\sho\Desktop\dddd\DemoAPICore\CoreWebAPI\obj\Debug\net6.0\CoreWebAPI.csproj.AssemblyReference.cache
+C:\Users\sho\Desktop\dddd\DemoAPICore\CoreWebAPI\obj\Debug\net6.0\CoreApi.Controller.ErrorMessages.resources
+C:\Users\sho\Desktop\dddd\DemoAPICore\CoreWebAPI\obj\Debug\net6.0\CoreWebAPI.csproj.GenerateResource.cache
+C:\Users\sho\Desktop\dddd\DemoAPICore\CoreWebAPI\obj\Debug\net6.0\CoreWebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sho\Desktop\dddd\DemoAPICore\CoreWebAPI\obj\Debug\net6.0\CoreWebAPI.AssemblyInfoInputs.cache
+C:\Users\sho\Desktop\dddd\DemoAPICore\CoreWebAPI\obj\Debug\net6.0\CoreWebAPI.AssemblyInfo.cs
+C:\Users\sho\Desktop\dddd\DemoAPICore\CoreWebAPI\obj\Debug\net6.0\CoreWebAPI.csproj.CoreCompileInputs.cache
+C:\Users\sho\Desktop\dddd\DemoAPICore\CoreWebAPI\obj\Debug\net6.0\CoreApi.Controller.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\sho\Desktop\dddd\DemoAPICore\CoreWebAPI\obj\Debug\net6.0\CoreApi.Controller.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sho\Desktop\dddd\DemoAPICore\CoreWebAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\sho\Desktop\dddd\DemoAPICore\CoreWebAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\sho\Desktop\dddd\DemoAPICore\CoreWebAPI\obj\Debug\net6.0\scopedcss\bundle\CoreApi.Controller.styles.css
+C:\Users\sho\Desktop\dddd\DemoAPICore\CoreWebAPI\obj\Debug\net6.0\CoreWebAPI.csproj.CopyComplete
+C:\Users\sho\Desktop\dddd\DemoAPICore\CoreWebAPI\obj\Debug\net6.0\CoreApi.Controller.dll
+C:\Users\sho\Desktop\dddd\DemoAPICore\CoreWebAPI\obj\Debug\net6.0\refint\CoreApi.Controller.dll
+C:\Users\sho\Desktop\dddd\DemoAPICore\CoreWebAPI\obj\Debug\net6.0\CoreApi.Controller.pdb
+C:\Users\sho\Desktop\dddd\DemoAPICore\CoreWebAPI\obj\Debug\net6.0\CoreWebAPI.genruntimeconfig.cache
+C:\Users\sho\Desktop\dddd\DemoAPICore\CoreWebAPI\obj\Debug\net6.0\ref\CoreApi.Controller.dll
+C:\Users\sho\Desktop\dddd\DemoAPICore\CoreWebAPI\obj\Debug\net6.0\staticwebassets\msbuild.CoreApi.Controller.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\sho\Desktop\dddd\DemoAPICore\CoreWebAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.CoreApi.Controller.props
+C:\Users\sho\Desktop\dddd\DemoAPICore\CoreWebAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.CoreApi.Controller.props
+C:\Users\sho\Desktop\dddd\DemoAPICore\CoreWebAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.CoreApi.Controller.props
+C:\Users\sho\Desktop\dddd\DemoAPICore\CoreWebAPI\obj\Debug\net6.0\staticwebassets.pack.json
+F:\Working Project\API All Apps\APICore\CoreWebAPI\bin\Debug\net6.0\appsettings.Development.json
+F:\Working Project\API All Apps\APICore\CoreWebAPI\bin\Debug\net6.0\appsettings.json
+F:\Working Project\API All Apps\APICore\CoreWebAPI\bin\Debug\net6.0\CoreApi.Controller.exe
+F:\Working Project\API All Apps\APICore\CoreWebAPI\bin\Debug\net6.0\CoreApi.Controller.deps.json
+F:\Working Project\API All Apps\APICore\CoreWebAPI\bin\Debug\net6.0\CoreApi.Controller.runtimeconfig.json
+F:\Working Project\API All Apps\APICore\CoreWebAPI\bin\Debug\net6.0\CoreApi.Controller.dll
+F:\Working Project\API All Apps\APICore\CoreWebAPI\bin\Debug\net6.0\CoreApi.Controller.pdb
+F:\Working Project\API All Apps\APICore\CoreWebAPI\bin\Debug\net6.0\System.Net.Http.Formatting.dll
+F:\Working Project\API All Apps\APICore\CoreWebAPI\bin\Debug\net6.0\System.Web.Http.dll
+F:\Working Project\API All Apps\APICore\CoreWebAPI\bin\Debug\net6.0\System.Web.Http.WebHost.dll
+F:\Working Project\API All Apps\APICore\CoreWebAPI\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+F:\Working Project\API All Apps\APICore\CoreWebAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+F:\Working Project\API All Apps\APICore\CoreWebAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+F:\Working Project\API All Apps\APICore\CoreWebAPI\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+F:\Working Project\API All Apps\APICore\CoreWebAPI\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+F:\Working Project\API All Apps\APICore\CoreWebAPI\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+F:\Working Project\API All Apps\APICore\CoreWebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+F:\Working Project\API All Apps\APICore\CoreWebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Working Project\API All Apps\APICore\CoreWebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\Working Project\API All Apps\APICore\CoreWebAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+F:\Working Project\API All Apps\APICore\CoreWebAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+F:\Working Project\API All Apps\APICore\CoreWebAPI\bin\Debug\net6.0\Microsoft.Web.Infrastructure.dll
+F:\Working Project\API All Apps\APICore\CoreWebAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\Working Project\API All Apps\APICore\CoreWebAPI\bin\Debug\net6.0\Newtonsoft.Json.dll
+F:\Working Project\API All Apps\APICore\CoreWebAPI\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+F:\Working Project\API All Apps\APICore\CoreWebAPI\bin\Debug\net6.0\NLog.dll
+F:\Working Project\API All Apps\APICore\CoreWebAPI\bin\Debug\net6.0\NLog.Extensions.Logging.dll
+F:\Working Project\API All Apps\APICore\CoreWebAPI\bin\Debug\net6.0\Npgsql.dll
+F:\Working Project\API All Apps\APICore\CoreWebAPI\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+F:\Working Project\API All Apps\APICore\CoreWebAPI\bin\Debug\net6.0\Serilog.dll
+F:\Working Project\API All Apps\APICore\CoreWebAPI\bin\Debug\net6.0\Serilog.AspNetCore.dll
+F:\Working Project\API All Apps\APICore\CoreWebAPI\bin\Debug\net6.0\Serilog.Extensions.Hosting.dll
+F:\Working Project\API All Apps\APICore\CoreWebAPI\bin\Debug\net6.0\Serilog.Extensions.Logging.dll
+F:\Working Project\API All Apps\APICore\CoreWebAPI\bin\Debug\net6.0\Serilog.Formatting.Compact.dll
+F:\Working Project\API All Apps\APICore\CoreWebAPI\bin\Debug\net6.0\Serilog.Settings.Configuration.dll
+F:\Working Project\API All Apps\APICore\CoreWebAPI\bin\Debug\net6.0\Serilog.Sinks.Console.dll
+F:\Working Project\API All Apps\APICore\CoreWebAPI\bin\Debug\net6.0\Serilog.Sinks.Debug.dll
+F:\Working Project\API All Apps\APICore\CoreWebAPI\bin\Debug\net6.0\Serilog.Sinks.File.dll
+F:\Working Project\API All Apps\APICore\CoreWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\Working Project\API All Apps\APICore\CoreWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\Working Project\API All Apps\APICore\CoreWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\Working Project\API All Apps\APICore\CoreWebAPI\bin\Debug\net6.0\Swashbuckle.Core.dll
+F:\Working Project\API All Apps\APICore\CoreWebAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+F:\Working Project\API All Apps\APICore\CoreWebAPI\bin\Debug\net6.0\System.Data.SqlClient.dll
+F:\Working Project\API All Apps\APICore\CoreWebAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+F:\Working Project\API All Apps\APICore\CoreWebAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\Working Project\API All Apps\APICore\CoreWebAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+F:\Working Project\API All Apps\APICore\CoreWebAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+F:\Working Project\API All Apps\APICore\CoreWebAPI\bin\Debug\net6.0\WebActivatorEx.dll
+F:\Working Project\API All Apps\APICore\CoreWebAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\Working Project\API All Apps\APICore\CoreWebAPI\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+F:\Working Project\API All Apps\APICore\CoreWebAPI\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+F:\Working Project\API All Apps\APICore\CoreWebAPI\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+F:\Working Project\API All Apps\APICore\CoreWebAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\Working Project\API All Apps\APICore\CoreWebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\Working Project\API All Apps\APICore\CoreWebAPI\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+F:\Working Project\API All Apps\APICore\CoreWebAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+F:\Working Project\API All Apps\APICore\CoreWebAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\Working Project\API All Apps\APICore\CoreWebAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+F:\Working Project\API All Apps\APICore\CoreWebAPI\bin\Debug\net6.0\CoreApi.Common.Models.dll
+F:\Working Project\API All Apps\APICore\CoreWebAPI\bin\Debug\net6.0\CoreApi.LoggerService.dll
+F:\Working Project\API All Apps\APICore\CoreWebAPI\bin\Debug\net6.0\CoreApi.UserManagment.dll
+F:\Working Project\API All Apps\APICore\CoreWebAPI\bin\Debug\net6.0\CoreApi.Common.Models.pdb
+F:\Working Project\API All Apps\APICore\CoreWebAPI\bin\Debug\net6.0\CoreApi.LoggerService.pdb
+F:\Working Project\API All Apps\APICore\CoreWebAPI\bin\Debug\net6.0\CoreApi.UserManagment.pdb
+F:\Working Project\API All Apps\APICore\CoreWebAPI\obj\Debug\net6.0\CoreWebAPI.csproj.AssemblyReference.cache
+F:\Working Project\API All Apps\APICore\CoreWebAPI\obj\Debug\net6.0\CoreApi.Controller.ErrorMessages.resources
+F:\Working Project\API All Apps\APICore\CoreWebAPI\obj\Debug\net6.0\CoreWebAPI.csproj.GenerateResource.cache
+F:\Working Project\API All Apps\APICore\CoreWebAPI\obj\Debug\net6.0\CoreWebAPI.GeneratedMSBuildEditorConfig.editorconfig
+F:\Working Project\API All Apps\APICore\CoreWebAPI\obj\Debug\net6.0\CoreWebAPI.AssemblyInfoInputs.cache
+F:\Working Project\API All Apps\APICore\CoreWebAPI\obj\Debug\net6.0\CoreWebAPI.AssemblyInfo.cs
+F:\Working Project\API All Apps\APICore\CoreWebAPI\obj\Debug\net6.0\CoreWebAPI.csproj.CoreCompileInputs.cache
+F:\Working Project\API All Apps\APICore\CoreWebAPI\obj\Debug\net6.0\CoreApi.Controller.MvcApplicationPartsAssemblyInfo.cs
+F:\Working Project\API All Apps\APICore\CoreWebAPI\obj\Debug\net6.0\CoreApi.Controller.MvcApplicationPartsAssemblyInfo.cache
+F:\Working Project\API All Apps\APICore\CoreWebAPI\obj\Debug\net6.0\staticwebassets.build.json
+F:\Working Project\API All Apps\APICore\CoreWebAPI\obj\Debug\net6.0\staticwebassets.development.json
+F:\Working Project\API All Apps\APICore\CoreWebAPI\obj\Debug\net6.0\staticwebassets\msbuild.CoreApi.Controller.Microsoft.AspNetCore.StaticWebAssets.props
+F:\Working Project\API All Apps\APICore\CoreWebAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.CoreApi.Controller.props
+F:\Working Project\API All Apps\APICore\CoreWebAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.CoreApi.Controller.props
+F:\Working Project\API All Apps\APICore\CoreWebAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.CoreApi.Controller.props
+F:\Working Project\API All Apps\APICore\CoreWebAPI\obj\Debug\net6.0\staticwebassets.pack.json
+F:\Working Project\API All Apps\APICore\CoreWebAPI\obj\Debug\net6.0\scopedcss\bundle\CoreApi.Controller.styles.css
+F:\Working Project\API All Apps\APICore\CoreWebAPI\obj\Debug\net6.0\CoreWebAPI.csproj.CopyComplete
+F:\Working Project\API All Apps\APICore\CoreWebAPI\obj\Debug\net6.0\CoreApi.Controller.dll
+F:\Working Project\API All Apps\APICore\CoreWebAPI\obj\Debug\net6.0\refint\CoreApi.Controller.dll
+F:\Working Project\API All Apps\APICore\CoreWebAPI\obj\Debug\net6.0\CoreApi.Controller.pdb
+F:\Working Project\API All Apps\APICore\CoreWebAPI\obj\Debug\net6.0\CoreWebAPI.genruntimeconfig.cache
+F:\Working Project\API All Apps\APICore\CoreWebAPI\obj\Debug\net6.0\ref\CoreApi.Controller.dll
+F:\Working Project\API All Apps\APICore - Demo\CoreWebAPI\bin\Debug\net6.0\appsettings.Development.json
+F:\Working Project\API All Apps\APICore - Demo\CoreWebAPI\bin\Debug\net6.0\appsettings.json
+F:\Working Project\API All Apps\APICore - Demo\CoreWebAPI\bin\Debug\net6.0\CoreApi.Controller.exe
+F:\Working Project\API All Apps\APICore - Demo\CoreWebAPI\bin\Debug\net6.0\CoreApi.Controller.deps.json
+F:\Working Project\API All Apps\APICore - Demo\CoreWebAPI\bin\Debug\net6.0\CoreApi.Controller.runtimeconfig.json
+F:\Working Project\API All Apps\APICore - Demo\CoreWebAPI\bin\Debug\net6.0\CoreApi.Controller.dll
+F:\Working Project\API All Apps\APICore - Demo\CoreWebAPI\bin\Debug\net6.0\CoreApi.Controller.pdb
+F:\Working Project\API All Apps\APICore - Demo\CoreWebAPI\bin\Debug\net6.0\System.Net.Http.Formatting.dll
+F:\Working Project\API All Apps\APICore - Demo\CoreWebAPI\bin\Debug\net6.0\System.Web.Http.dll
+F:\Working Project\API All Apps\APICore - Demo\CoreWebAPI\bin\Debug\net6.0\System.Web.Http.WebHost.dll
+F:\Working Project\API All Apps\APICore - Demo\CoreWebAPI\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+F:\Working Project\API All Apps\APICore - Demo\CoreWebAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+F:\Working Project\API All Apps\APICore - Demo\CoreWebAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+F:\Working Project\API All Apps\APICore - Demo\CoreWebAPI\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+F:\Working Project\API All Apps\APICore - Demo\CoreWebAPI\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+F:\Working Project\API All Apps\APICore - Demo\CoreWebAPI\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+F:\Working Project\API All Apps\APICore - Demo\CoreWebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+F:\Working Project\API All Apps\APICore - Demo\CoreWebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Working Project\API All Apps\APICore - Demo\CoreWebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\Working Project\API All Apps\APICore - Demo\CoreWebAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+F:\Working Project\API All Apps\APICore - Demo\CoreWebAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+F:\Working Project\API All Apps\APICore - Demo\CoreWebAPI\bin\Debug\net6.0\Microsoft.Web.Infrastructure.dll
+F:\Working Project\API All Apps\APICore - Demo\CoreWebAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\Working Project\API All Apps\APICore - Demo\CoreWebAPI\bin\Debug\net6.0\Newtonsoft.Json.dll
+F:\Working Project\API All Apps\APICore - Demo\CoreWebAPI\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+F:\Working Project\API All Apps\APICore - Demo\CoreWebAPI\bin\Debug\net6.0\NLog.dll
+F:\Working Project\API All Apps\APICore - Demo\CoreWebAPI\bin\Debug\net6.0\NLog.Extensions.Logging.dll
+F:\Working Project\API All Apps\APICore - Demo\CoreWebAPI\bin\Debug\net6.0\Npgsql.dll
+F:\Working Project\API All Apps\APICore - Demo\CoreWebAPI\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+F:\Working Project\API All Apps\APICore - Demo\CoreWebAPI\bin\Debug\net6.0\Serilog.dll
+F:\Working Project\API All Apps\APICore - Demo\CoreWebAPI\bin\Debug\net6.0\Serilog.AspNetCore.dll
+F:\Working Project\API All Apps\APICore - Demo\CoreWebAPI\bin\Debug\net6.0\Serilog.Extensions.Hosting.dll
+F:\Working Project\API All Apps\APICore - Demo\CoreWebAPI\bin\Debug\net6.0\Serilog.Extensions.Logging.dll
+F:\Working Project\API All Apps\APICore - Demo\CoreWebAPI\bin\Debug\net6.0\Serilog.Formatting.Compact.dll
+F:\Working Project\API All Apps\APICore - Demo\CoreWebAPI\bin\Debug\net6.0\Serilog.Settings.Configuration.dll
+F:\Working Project\API All Apps\APICore - Demo\CoreWebAPI\bin\Debug\net6.0\Serilog.Sinks.Console.dll
+F:\Working Project\API All Apps\APICore - Demo\CoreWebAPI\bin\Debug\net6.0\Serilog.Sinks.Debug.dll
+F:\Working Project\API All Apps\APICore - Demo\CoreWebAPI\bin\Debug\net6.0\Serilog.Sinks.File.dll
+F:\Working Project\API All Apps\APICore - Demo\CoreWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\Working Project\API All Apps\APICore - Demo\CoreWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\Working Project\API All Apps\APICore - Demo\CoreWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\Working Project\API All Apps\APICore - Demo\CoreWebAPI\bin\Debug\net6.0\Swashbuckle.Core.dll
+F:\Working Project\API All Apps\APICore - Demo\CoreWebAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+F:\Working Project\API All Apps\APICore - Demo\CoreWebAPI\bin\Debug\net6.0\System.Data.SqlClient.dll
+F:\Working Project\API All Apps\APICore - Demo\CoreWebAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+F:\Working Project\API All Apps\APICore - Demo\CoreWebAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\Working Project\API All Apps\APICore - Demo\CoreWebAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+F:\Working Project\API All Apps\APICore - Demo\CoreWebAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+F:\Working Project\API All Apps\APICore - Demo\CoreWebAPI\bin\Debug\net6.0\WebActivatorEx.dll
+F:\Working Project\API All Apps\APICore - Demo\CoreWebAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\Working Project\API All Apps\APICore - Demo\CoreWebAPI\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+F:\Working Project\API All Apps\APICore - Demo\CoreWebAPI\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+F:\Working Project\API All Apps\APICore - Demo\CoreWebAPI\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+F:\Working Project\API All Apps\APICore - Demo\CoreWebAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\Working Project\API All Apps\APICore - Demo\CoreWebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\Working Project\API All Apps\APICore - Demo\CoreWebAPI\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+F:\Working Project\API All Apps\APICore - Demo\CoreWebAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+F:\Working Project\API All Apps\APICore - Demo\CoreWebAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\Working Project\API All Apps\APICore - Demo\CoreWebAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+F:\Working Project\API All Apps\APICore - Demo\CoreWebAPI\bin\Debug\net6.0\CoreApi.Common.Models.dll
+F:\Working Project\API All Apps\APICore - Demo\CoreWebAPI\bin\Debug\net6.0\CoreApi.LoggerService.dll
+F:\Working Project\API All Apps\APICore - Demo\CoreWebAPI\bin\Debug\net6.0\CoreApi.UserManagment.dll
+F:\Working Project\API All Apps\APICore - Demo\CoreWebAPI\bin\Debug\net6.0\CoreApi.Common.Models.pdb
+F:\Working Project\API All Apps\APICore - Demo\CoreWebAPI\bin\Debug\net6.0\CoreApi.LoggerService.pdb
+F:\Working Project\API All Apps\APICore - Demo\CoreWebAPI\bin\Debug\net6.0\CoreApi.UserManagment.pdb
+F:\Working Project\API All Apps\APICore - Demo\CoreWebAPI\obj\Debug\net6.0\CoreWebAPI.csproj.AssemblyReference.cache
+F:\Working Project\API All Apps\APICore - Demo\CoreWebAPI\obj\Debug\net6.0\CoreApi.Controller.ErrorMessages.resources
+F:\Working Project\API All Apps\APICore - Demo\CoreWebAPI\obj\Debug\net6.0\CoreWebAPI.csproj.GenerateResource.cache
+F:\Working Project\API All Apps\APICore - Demo\CoreWebAPI\obj\Debug\net6.0\CoreWebAPI.GeneratedMSBuildEditorConfig.editorconfig
+F:\Working Project\API All Apps\APICore - Demo\CoreWebAPI\obj\Debug\net6.0\CoreWebAPI.AssemblyInfoInputs.cache
+F:\Working Project\API All Apps\APICore - Demo\CoreWebAPI\obj\Debug\net6.0\CoreWebAPI.AssemblyInfo.cs
+F:\Working Project\API All Apps\APICore - Demo\CoreWebAPI\obj\Debug\net6.0\CoreWebAPI.csproj.CoreCompileInputs.cache
+F:\Working Project\API All Apps\APICore - Demo\CoreWebAPI\obj\Debug\net6.0\CoreApi.Controller.MvcApplicationPartsAssemblyInfo.cs
+F:\Working Project\API All Apps\APICore - Demo\CoreWebAPI\obj\Debug\net6.0\CoreApi.Controller.MvcApplicationPartsAssemblyInfo.cache
+F:\Working Project\API All Apps\APICore - Demo\CoreWebAPI\obj\Debug\net6.0\staticwebassets.build.json
+F:\Working Project\API All Apps\APICore - Demo\CoreWebAPI\obj\Debug\net6.0\staticwebassets.development.json
+F:\Working Project\API All Apps\APICore - Demo\CoreWebAPI\obj\Debug\net6.0\staticwebassets\msbuild.CoreApi.Controller.Microsoft.AspNetCore.StaticWebAssets.props
+F:\Working Project\API All Apps\APICore - Demo\CoreWebAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.CoreApi.Controller.props
+F:\Working Project\API All Apps\APICore - Demo\CoreWebAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.CoreApi.Controller.props
+F:\Working Project\API All Apps\APICore - Demo\CoreWebAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.CoreApi.Controller.props
+F:\Working Project\API All Apps\APICore - Demo\CoreWebAPI\obj\Debug\net6.0\staticwebassets.pack.json
+F:\Working Project\API All Apps\APICore - Demo\CoreWebAPI\obj\Debug\net6.0\scopedcss\bundle\CoreApi.Controller.styles.css
+F:\Working Project\API All Apps\APICore - Demo\CoreWebAPI\obj\Debug\net6.0\CoreWebAPI.csproj.CopyComplete
+F:\Working Project\API All Apps\APICore - Demo\CoreWebAPI\obj\Debug\net6.0\CoreApi.Controller.dll
+F:\Working Project\API All Apps\APICore - Demo\CoreWebAPI\obj\Debug\net6.0\refint\CoreApi.Controller.dll
+F:\Working Project\API All Apps\APICore - Demo\CoreWebAPI\obj\Debug\net6.0\CoreApi.Controller.pdb
+F:\Working Project\API All Apps\APICore - Demo\CoreWebAPI\obj\Debug\net6.0\CoreWebAPI.genruntimeconfig.cache
+F:\Working Project\API All Apps\APICore - Demo\CoreWebAPI\obj\Debug\net6.0\ref\CoreApi.Controller.dll

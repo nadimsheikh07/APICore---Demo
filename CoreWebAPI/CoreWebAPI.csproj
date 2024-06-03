@@ -1,0 +1,35 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <PackageId>CoreApi.Controller</PackageId>
+    <Authors>CoreApi.Controller</Authors>
+    <Company>CoreApi.Controller</Company>
+    <Product>CoreApi.Controller</Product>
+    <AssemblyName>CoreApi.Controller</AssemblyName>
+    <RootNamespace>CoreApi.Controller</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Controllers\MasterDataUtilityController.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Serilog.AspNetCore" Version="5.0.0" />
+    <PackageReference Include="Serilog.Sinks.File" Version="5.0.0" />
+    <PackageReference Include="Swashbuckle" Version="5.6.0" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="5.6.3" />
+    <PackageReference Include="Swashbuckle.Core" Version="5.6.0" />
+    <PackageReference Include="System.Configuration.ConfigurationManager" Version="6.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CoreApi.Common.Models\CoreApi.Common.Models.csproj" />
+    <ProjectReference Include="..\CoreApi.LoggerService\CoreApi.LoggerService.csproj" />
+    <ProjectReference Include="..\CoreApi.UserManagment\CoreApi.UserManagment.csproj" />
+    <ProjectReference Include="..\CoreApi.Common.Models\CoreApi.Common.Models.csproj" />
+    <ProjectReference Include="..\CoreApi.LoggerService\CoreApi.LoggerService.csproj" />
+    <ProjectReference Include="..\CoreApi.UserManagment\CoreApi.UserManagment.csproj" />
+  </ItemGroup>
+
+</Project>

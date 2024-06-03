@@ -1,0 +1,36 @@
+C:\Users\sho\Desktop\dddd\DemoAPICore\CoreApi.LoggerService\bin\Debug\net6.0\CoreApi.LoggerService.deps.json
+C:\Users\sho\Desktop\dddd\DemoAPICore\CoreApi.LoggerService\bin\Debug\net6.0\CoreApi.LoggerService.dll
+C:\Users\sho\Desktop\dddd\DemoAPICore\CoreApi.LoggerService\bin\Debug\net6.0\CoreApi.LoggerService.pdb
+C:\Users\sho\Desktop\dddd\DemoAPICore\CoreApi.LoggerService\obj\Debug\net6.0\CoreApi.LoggerService.csproj.AssemblyReference.cache
+C:\Users\sho\Desktop\dddd\DemoAPICore\CoreApi.LoggerService\obj\Debug\net6.0\CoreApi.LoggerService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sho\Desktop\dddd\DemoAPICore\CoreApi.LoggerService\obj\Debug\net6.0\CoreApi.LoggerService.AssemblyInfoInputs.cache
+C:\Users\sho\Desktop\dddd\DemoAPICore\CoreApi.LoggerService\obj\Debug\net6.0\CoreApi.LoggerService.AssemblyInfo.cs
+C:\Users\sho\Desktop\dddd\DemoAPICore\CoreApi.LoggerService\obj\Debug\net6.0\CoreApi.LoggerService.csproj.CoreCompileInputs.cache
+C:\Users\sho\Desktop\dddd\DemoAPICore\CoreApi.LoggerService\obj\Debug\net6.0\CoreApi.LoggerService.dll
+C:\Users\sho\Desktop\dddd\DemoAPICore\CoreApi.LoggerService\obj\Debug\net6.0\refint\CoreApi.LoggerService.dll
+C:\Users\sho\Desktop\dddd\DemoAPICore\CoreApi.LoggerService\obj\Debug\net6.0\CoreApi.LoggerService.pdb
+C:\Users\sho\Desktop\dddd\DemoAPICore\CoreApi.LoggerService\obj\Debug\net6.0\ref\CoreApi.LoggerService.dll
+F:\Working Project\API All Apps\APICore\CoreApi.LoggerService\bin\Debug\net6.0\CoreApi.LoggerService.deps.json
+F:\Working Project\API All Apps\APICore\CoreApi.LoggerService\bin\Debug\net6.0\CoreApi.LoggerService.dll
+F:\Working Project\API All Apps\APICore\CoreApi.LoggerService\bin\Debug\net6.0\CoreApi.LoggerService.pdb
+F:\Working Project\API All Apps\APICore\CoreApi.LoggerService\obj\Debug\net6.0\CoreApi.LoggerService.csproj.AssemblyReference.cache
+F:\Working Project\API All Apps\APICore\CoreApi.LoggerService\obj\Debug\net6.0\CoreApi.LoggerService.GeneratedMSBuildEditorConfig.editorconfig
+F:\Working Project\API All Apps\APICore\CoreApi.LoggerService\obj\Debug\net6.0\CoreApi.LoggerService.AssemblyInfoInputs.cache
+F:\Working Project\API All Apps\APICore\CoreApi.LoggerService\obj\Debug\net6.0\CoreApi.LoggerService.AssemblyInfo.cs
+F:\Working Project\API All Apps\APICore\CoreApi.LoggerService\obj\Debug\net6.0\CoreApi.LoggerService.csproj.CoreCompileInputs.cache
+F:\Working Project\API All Apps\APICore\CoreApi.LoggerService\obj\Debug\net6.0\CoreApi.LoggerService.dll
+F:\Working Project\API All Apps\APICore\CoreApi.LoggerService\obj\Debug\net6.0\refint\CoreApi.LoggerService.dll
+F:\Working Project\API All Apps\APICore\CoreApi.LoggerService\obj\Debug\net6.0\CoreApi.LoggerService.pdb
+F:\Working Project\API All Apps\APICore\CoreApi.LoggerService\obj\Debug\net6.0\ref\CoreApi.LoggerService.dll
+F:\Working Project\API All Apps\APICore - Demo\CoreApi.LoggerService\bin\Debug\net6.0\CoreApi.LoggerService.deps.json
+F:\Working Project\API All Apps\APICore - Demo\CoreApi.LoggerService\bin\Debug\net6.0\CoreApi.LoggerService.dll
+F:\Working Project\API All Apps\APICore - Demo\CoreApi.LoggerService\bin\Debug\net6.0\CoreApi.LoggerService.pdb
+F:\Working Project\API All Apps\APICore - Demo\CoreApi.LoggerService\obj\Debug\net6.0\CoreApi.LoggerService.csproj.AssemblyReference.cache
+F:\Working Project\API All Apps\APICore - Demo\CoreApi.LoggerService\obj\Debug\net6.0\CoreApi.LoggerService.GeneratedMSBuildEditorConfig.editorconfig
+F:\Working Project\API All Apps\APICore - Demo\CoreApi.LoggerService\obj\Debug\net6.0\CoreApi.LoggerService.AssemblyInfoInputs.cache
+F:\Working Project\API All Apps\APICore - Demo\CoreApi.LoggerService\obj\Debug\net6.0\CoreApi.LoggerService.AssemblyInfo.cs
+F:\Working Project\API All Apps\APICore - Demo\CoreApi.LoggerService\obj\Debug\net6.0\CoreApi.LoggerService.csproj.CoreCompileInputs.cache
+F:\Working Project\API All Apps\APICore - Demo\CoreApi.LoggerService\obj\Debug\net6.0\CoreApi.LoggerService.dll
+F:\Working Project\API All Apps\APICore - Demo\CoreApi.LoggerService\obj\Debug\net6.0\refint\CoreApi.LoggerService.dll
+F:\Working Project\API All Apps\APICore - Demo\CoreApi.LoggerService\obj\Debug\net6.0\CoreApi.LoggerService.pdb
+F:\Working Project\API All Apps\APICore - Demo\CoreApi.LoggerService\obj\Debug\net6.0\ref\CoreApi.LoggerService.dll
